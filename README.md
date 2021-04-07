@@ -1,6 +1,6 @@
 # ANTARES notebooks
 This is a collection of notebooks to be used for the LSST enabling science broker workshop. There are several sessions at the workshop, and the notebooks correspond to the following sessions (please feel free to add more notebooks and your name):
-- Extragalactic: (by Patrick and Kostya)
+- Extragalactic: IF_AD_broker_workshop_final.ipynb (by Patrick and Kostya)
 
 - Galactic: Antaresv1.0VariableRCBStars.ipynb, ExploringVariabilityWithANTARES.ipynb (by Chien-Hsiu)
 
